@@ -41,7 +41,7 @@ def run_als_iter(reg_param, rank, seed, als_num_iters):
     return error_validation
 
 def gen_hyperparams():
-    rank_arr = [4,6,8,10,12,14,16,18]
+    rank_arr = [4,6,8,10,12,14]
     reg_param_arr = [0.00555556, 0.01111111, 0.01666667, 0.02222222, 0.02777778, 0.03333333, 0.03888889, 0.04444444, 0.05]
     return rank_arr, reg_param_arr
 
