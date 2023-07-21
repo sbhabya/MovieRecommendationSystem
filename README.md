@@ -20,9 +20,9 @@ Movie Recommendation System uses Alternating Least Squares (ALS) Machine Learnin
 
 * Further, for regularization parameter lambda = 0.05, the variation of validation error vs. rank is seen to be monotonously decreasing.
 
-<img src="Images/hyperparams1.png" width=50%>
+<img src="Images/hyperparams_1.png" width=50%>
 
 * For rank = 14, the variation of validation error vs. regularization parameter is seen to be as follows.
 
-<img src="Images/hyperparams2.png" width=50%>
+<img src="Images/hyperparams_2.png" width=50%>
   
