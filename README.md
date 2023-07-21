@@ -10,6 +10,6 @@ Movie Recommendation System uses Alternating Least Squares (ALS) Machine Learnin
 
 * ALS objective-function minimization is truncated at a finite number of iterations. We sweep this iteration number to test for convergence.
 
-![Convergence with respect to number of iterations in ALS optimization](./Images/iters_vs_rmse.png)
+![Convergence with respect to number of iterations in ALS optimization](./Images/iters_vs_rmse.png | width=50)
 
   
